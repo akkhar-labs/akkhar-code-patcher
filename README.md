@@ -27,8 +27,8 @@ Akkhar Code Patcher was a VS Code extension for applying small, targeted
 search-and-replace patches produced by AI chatbots, instead of copy-pasting
 whole regenerated files.
 
-It grew out of the earlier *Sover* vision and became the starting point for
-**Brud Code**.
+It was the first step in a line of work that evolved into *Sover* and then into
+**Brud Code**, also known as "Akkhar-Code" in the ASM reference integration.
 
 ## Why I built it
 
@@ -67,7 +67,7 @@ Paste the block into the sidebar → **Preview Bulk Diff** → **Execute Patch**
 
 ## Lineage
 
-**Sover (vision) → Akkhar Code Patcher → [Brud Code](https://github.com/rahatarch/brud)**
+**Akkhar Code Patcher → Sover → [Brud Code](https://github.com/rahatarch/brud)**
 
 Brud Code adds a standalone microkernel, snapshot history with revert/restore,
 workspace sandboxing, a terminal engine, and CI-tested protocol handling.
